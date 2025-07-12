@@ -1,7 +1,5 @@
 # 32 Advanced Search Engines for Hackers and OSINT Enthusiasts
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/r4n1-exe/advanced-search-engines?style=social)](https://github.com/r4n1-exe/advanced-search-engines/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/r4n1-exe/advanced-search-engines?style=social)](https://github.com/r4n1-exe/advanced-search-engines/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A curated collection of **32 advanced search engines and platforms** designed for cybersecurity professionals, penetration testers, OSINT researchers, and hackers. Use these tools to discover internet-connected devices, search leaked credentials, analyze vulnerabilities, map assets, and much more.
@@ -90,6 +88,13 @@ Contributions are welcome! Feel free to:
 - Submit pull requests to improve descriptions or add categories.  
 - Report broken links or outdated info.  
 
+
+## Author
+Rani Kamaleddine
+
+[GitHub Profile](https://github.com/r4n1-exe)
+
+[LinkedIn](https://www.linkedin.com/in/rani-kamaleddine)
 
 ## License
 
