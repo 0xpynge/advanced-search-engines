@@ -101,4 +101,4 @@ Rani Kamaleddine
 This repository is licensed under the [MIT License](LICENSE).
 
 
-*Happy Hunting! 🔍*
+*Happy Hunting! *
