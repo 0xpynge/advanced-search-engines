@@ -92,7 +92,7 @@ Contributions are welcome! Feel free to:
 ## Author
 Rani Kamaleddine
 
-[GitHub Profile](https://github.com/r4n1-exe)
+[GitHub Profile](https://github.com/0xpynge)
 
 [LinkedIn](https://www.linkedin.com/in/rani-kamaleddine)
 
