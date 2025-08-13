@@ -1,6 +1,6 @@
 # 32 Advanced Search Engines for Hackers and OSINT Enthusiasts
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 A curated collection of **32 advanced search engines and platforms** designed for cybersecurity professionals, penetration testers, OSINT researchers, and hackers. Use these tools to discover internet-connected devices, search leaked credentials, analyze vulnerabilities, map assets, and much more.
 
