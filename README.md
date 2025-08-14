@@ -7,8 +7,7 @@ A curated collection of **32 advanced search engines and platforms** designed fo
 
 ## Why This Repository?
 
-
-
+Speed up your reconnaissance and threat intelligence gathering by leveraging specialized search engines tailored to cybersecurity investigations. Instead of generic tools, this list focuses on powerful, niche platforms trusted by security experts worldwide.
 
 ## Table of Contents
 
