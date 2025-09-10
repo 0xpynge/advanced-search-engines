@@ -1,4 +1,4 @@
-# 32 Advanced Search Engines for Hackers and OSINT Enthusiasts
+# 32 Advanced Search Engines for Hackers and OSINT Enthusiast
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
